@@ -1,0 +1,12 @@
+*.pyc
+*__pycache__*
+*.pth
+test*
+checkpoints/*
+data/*
+
+eval/pycocoevalcap
+wandb
+*.log
+*.out
+
